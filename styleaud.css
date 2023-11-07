@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'poppins' sans-serif;
+    text-align: center;
+
+    padding: 10px;
+    background-image: url("divia.jpeg");
+}
+
+.fa-arrow left{
+    padding-right: 1000px;
+    color: white;
+}
